@@ -10,7 +10,6 @@ The purpose of this project is to better understand the relationship between The
 
 ### Analysis of Outcomes Based on Launch Date
 
-
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/103383489/170910152-f60d5716-b013-4520-8292-e46efac1e58d.png)
 ---
 ![Parent Category Outcome Ratios](https://user-images.githubusercontent.com/103383489/170910162-d4d360b3-aa41-42e5-aefc-ef848ddd4532.png)
@@ -18,6 +17,14 @@ The purpose of this project is to better understand the relationship between The
 
 ### Analysis of Outcomes Based on Goals
 
+Consider Box & Whisker, Outliers if applicable.
+
+
+
 ### Challenges and Difficulties Encountered
 
 ## Results
+What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+What can you conclude about the Outcomes based on Goals?
+What are some limitations of this dataset?
+What are some other possible tables and/or graphs that we could create?
